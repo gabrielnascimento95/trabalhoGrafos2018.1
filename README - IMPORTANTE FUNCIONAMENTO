@@ -1,0 +1,14 @@
+Grupo 8 
+Alunos: 
+Cássio Henrique Resende Reis - 201576041
+Gabriel Martins Santana - 201576002
+Gabriel Nascimento dos Santos -201376133
+Mateus Gonçalo do Nascimento - 201576003
+Rian das Dores Alves - 201676040
+Vitor Rossini Gonzalez - 201665506
+
+Ordem para compilar sem problemas:
+g++ Aresta.cpp Vertice.cpp VerticeParte2.cpp Grafo.cpp GrafoParte2.cpp ControladorGrafo.cpp ControladorGrafoParte2.cpp main.cpp -o grupo8
+
+Execução
+./grupo8 DigiteAquiOArquivoDeEntrada DigiteAquiOArquivoDeSaída

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="ControladorGrafoParte2.h" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="23" Column="16"/>
+		</File>
+		<File Name="ControladorGrafoParte2.cpp" Top="Yes" Tabpos="2" TopLine="1">
+			<Cursor Line="1" Column="31"/>
+		</File>
+		<File Name="GrafoParte2.cpp" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="17" Column="2"/>
+		</File>
+		<File Name="ControladorGrafo.cpp" Top="No" Tabpos="4" TopLine="444">
+			<Cursor Line="471" Column="1"/>
+			<Selection Line="413" Column="1"/>
+		</File>
+		<File Name="VerticeParte2.h" Top="No" Tabpos="5" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="Aresta.h" Top="No" Tabpos="6" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="Aresta.cpp" Top="No" Tabpos="7" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+	</Files>
+</Layout>
